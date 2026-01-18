@@ -12,9 +12,12 @@ I have over 20 years of development experience.
 [![website1](https://img.shields.io/badge/website-f172a3?style=for-the-badge&logo=&logoColor=white)](https://halka.jp/)
 ## 📡 Amateur Radio Operator
 ### JM8UTW
+#### Location
 QN01jt, Hakodate, Hokkaido, JP
-
-D-STAR, YFS, DMR, HoIP and more.
+#### Band
+D-STAR, Wires-X (YSF, FCS), DMR, HoIP and more.
+#### Active
+Every day 1100Z-1500Z
 ## 👀 Interests
 - 🛫 Aviation **Incredible Aviation Geek**
   - Cockpit
