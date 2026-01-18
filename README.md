@@ -1,7 +1,9 @@
 # 👋 Kon'nichiwa
-![](https://komarev.com/ghpvc/?halka&color=f172a3)
+![](https://komarev.com/ghpvc/?username=halka&color=f172a3)
 ## 🧍I'm halka
 I have over 20 years of development experience.
+### 🏚️ QTH
+![](https://github.com/halka/halka/blob/main/assets/hashire.webp)
 ## 📞 Contact me
 X
 ## 📡 Amateur Radio Operator
