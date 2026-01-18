@@ -1,32 +1,30 @@
 # 👋 Kon'nichiwa
-![](https://komarev.com/ghpvc/?username=halka&color=f172a3)
+![counter](https://komarev.com/ghpvc/?username=halka&color=f172a3)
+
 ## 🧍I'm halka
-I have over 20 years of development experience.
+- I have over 20 years of development experience.
+- I'm a MacAdmin and director at Anonymouse Foundation.
+
+**I'm NOT an engineer.**
+## ⭐️ Goryokaku Park
+![Goryokaku Park](https://github.com/halka/halka/blob/main/assets/hashire.webp)
+
 ## 📞 Contact me
 [![X](https://img.shields.io/badge/a__halka-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/a_halka)
 [![Bluesky](https://img.shields.io/badge/halka.jp-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/halka.jp)
 [![mastodon_nere0](https://img.shields.io/badge/nere9-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mstdn.nere9.help/@halka)
 [![mastodon_radio](https://img.shields.io/badge/ham_radio-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.radio/@JM8UTW)
 [![website1](https://img.shields.io/badge/website-f172a3?style=for-the-badge&logo=&logoColor=white)](https://halka.jp/)
-## ⭐️ Walking
-![Goryokaku Park](https://github.com/halka/halka/blob/main/assets/hashire.webp)
-## 📡 Amateur Radio Operator
-### JM8UTW
-#### Location
-QN01jt, Hakodate, Hokkaido, JP
-#### Band
-D-STAR, Wires-X (YSF, FCS), DMR, HoIP and more.
-#### Active
-Every day 1100Z-1500Z
-## 👀 Interests
-- 🛫 Aviation **Incredible Aviation Geek**
-  - Cockpit
-  - Cabin
-  - Airport
-  - Air Traffic Control
-  - Airline and Airport Operation
-  - Passenger Management System
-- 🌏 Weather, Earthquake, and Disaster Prevention
+
+## 📊 Statics
+![details](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/0-profile-details.svg)
+
+![lang1](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![lang2](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/2-most-commit-language.svg)
+
+![stats1](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/3-stats.svg)
+![stats2](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/4-productive-time.svg)
+
 ## 🪛 Tools
 ### Artificial Intelligence
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -63,8 +61,7 @@ Every day 1100Z-1500Z
 ### Cloud
 ![CF](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
-)
+![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Environment
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -106,13 +103,21 @@ Every day 1100Z-1500Z
 ![qgis](https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## 📊 Statics
-![details](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/0-profile-details.svg)
+## 👀 Interests
+- 🛫 Aviation **Incredible Aviation Geek**
+  - Cockpit
+  - Cabin
+  - Airport
+  - Air Traffic Control
+  - Airline and Airport Operation
+  - Passenger Management System
+- 🌏 Weather, Earthquake, and Disaster Prevention
 
-![lang1](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![lang2](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
-![stats1](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/3-stats.svg)
-![stats2](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/4-productive-time.svg)
-
-[EOF]
+## 📡 Amateur Radio Operator
+### JM8UTW
+#### Location
+QN01jt, Hakodate, Hokkaido, JP
+#### Band
+D-STAR, Wires-X (YSF, FCS), DMR, HoIP and more.
+#### Active
+Every day 1100Z-1500Z
