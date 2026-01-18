@@ -2,14 +2,12 @@
 ![](https://komarev.com/ghpvc/?halka&color=f172a3)
 ## 🧍I'm halka
 I have over 20 years of development experience.
-
-Incredible Aviation Geek.
 ## 📞 Contact me
 X
 ## 📡 Amateur Radio Operator
 **JM8UTW**, Grid:QN01jt, Hakodate, Hokkaido, JP
 ## 👀 Interests
-- 🛫 Aviation
+- 🛫 Aviation **Incredible Aviation Geek**
   - Cockpit
   - Cabin
   - Airport
@@ -18,19 +16,12 @@ X
   - Passenger Management System
 - 🌏 Weather, Earthquake, and Disaster Prevention
 ## 🪛 Skills
+Standby
+## 📊 Statics
+![](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/0-profile-details.svg)
 
+![](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/2-most-commit-language.svg)
 
-<!--
-**halka/halka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/3-stats.svg)
+![](https://github.com/halka/halka/blob/main/profile-summary-card-output/default/4-productive-time.svg)
