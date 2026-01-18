@@ -2,14 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=halka&color=f172a3)
 ## 🧍I'm halka
 I have over 20 years of development experience.
-### 🏚️ QTH
-![Goryokaku Park](https://github.com/halka/halka/blob/main/assets/hashire.webp)
 ## 📞 Contact me
 [![X](https://img.shields.io/badge/a__halka-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/a_halka)
 [![Bluesky](https://img.shields.io/badge/halka.jp-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/halka.jp)
 [![mastodon_nere0](https://img.shields.io/badge/nere9-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mstdn.nere9.help/@halka)
 [![mastodon_radio](https://img.shields.io/badge/ham_radio-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.radio/@JM8UTW)
 [![website1](https://img.shields.io/badge/website-f172a3?style=for-the-badge&logo=&logoColor=white)](https://halka.jp/)
+## ⭐️ Walking
+![Goryokaku Park](https://github.com/halka/halka/blob/main/assets/hashire.webp)
 ## 📡 Amateur Radio Operator
 ### JM8UTW
 #### Location
