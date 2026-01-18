@@ -8,7 +8,7 @@
 **I'm NOT an engineer.**
 ## ⭐️ Goryokaku Park
 ![Goryokaku Park](https://github.com/halka/halka/blob/main/assets/hashire.webp)
-
+Every day, walking is a way to maintain a healthy lifestyle.
 ## 📞 Contact me
 [![X](https://img.shields.io/badge/a__halka-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/a_halka)
 [![Bluesky](https://img.shields.io/badge/halka.jp-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/halka.jp)
