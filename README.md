@@ -5,7 +5,9 @@
 - I have over 20 years of development experience.
 - I'm a MacAdmin and director at Anonymouse Foundation.
 
-**I'm NOT an engineer.**
+## Made in Goryokaku
+<img style="display: block; margin: auto;" alt="madeingoryokaku_mini" src="https://github.com/user-attachments/assets/966287f1-8ec7-4464-994a-79caddd20dac" />
+
 ## ⭐️ Goryokaku Park
 ![Goryokaku Park](https://github.com/halka/halka/blob/main/assets/hashire.webp)
 Every day, walking is a way to maintain a healthy lifestyle.
