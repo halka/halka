@@ -8,7 +8,7 @@
   - Amateur Radio Operator
   - Pro Jōsys™️ (trademark registered by ZUNDA Inc.)
   - MacAdmin
-  - Executive Director for Telecom, Gunjo Foundation
+  - Executive Director for Telecom, Gunjo Foundation, Inc.
 
 ## Made in Goryokaku
 <img style="display: block; margin: auto;" alt="madeingoryokaku_mini" src="https://github.com/user-attachments/assets/966287f1-8ec7-4464-994a-79caddd20dac" />
